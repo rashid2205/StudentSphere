@@ -1,0 +1,38 @@
+ *{
+    padding: 0;
+    scroll-behavior: smooth;
+ }
+ .main-body{
+    height: 400px;
+    width: 100%;
+    background-color: #4F709C;
+    animation-name: example;
+    /* box-shadow: 20px 20px 50px 15px grey; */
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    display: flex;
+    border-radius: 10px;
+}
+.text-container{
+  margin: auto;
+  /* border: 2px solid red; */
+  height: 100px;
+  font-family: 'Edu SA Beginner', cursive;
+  font-size: 50px;
+  animation-name: word;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+  /* @keyframes example {
+    from {background-color: #4A55A2;}
+    to {background-color: #071952;}
+  } */
+
+  @keyframes word {
+  from{color: #331D2C;}
+  to{color: #FAF3F0;}    
+  }
+
+  
+  

@@ -1,0 +1,17 @@
+.navbar{
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 20px;
+    font-weight: 300;
+    background-color: #FAF3F0;
+    /* position: fixed; */
+    width: 100%;
+    /* overflow: hidden; */
+    z-index:2;
+}
+
+.nav-item:hover{
+    background-color: #D8D9DA;
+    border-radius: 10px;
+    font-size: 21px;
+    
+}

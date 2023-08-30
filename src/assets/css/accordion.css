@@ -1,0 +1,16 @@
+.accordion-head{
+    margin: 100px 20px 50px 20px;
+    
+}
+.placement-head{
+    
+    /* border: 2px solid #CD6688; */
+    font-size: 45px;
+    text-align: center;
+    margin: 20px;
+    flex-wrap: wrap;
+    box-shadow: 2px 2px 20px 2px;
+    border-radius: 10px;
+    
+
+}
